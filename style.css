@@ -1,0 +1,47 @@
+h1, p{
+    color:palevioletred;
+    font-size: 25px;
+}
+
+nav {
+    color: rgb(184, 0, 37);
+}
+nav img {
+    width: 50px;
+    height: 50px;
+}
+nav img:hover {
+    width: 100px;
+    height: 100px;
+}
+.uno {
+    background-color: aquamarine;
+}
+
+.dos {
+    font-size: 50px;
+}
+
+.dos:hover {
+    color: limegreen;
+    font-size: 100px;
+}
+
+#especial {
+    background-color: blueviolet;
+}
+
+*{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+p:hover{
+    color:rgb(194, 31, 86);
+    font-size: 50px;
+}
+
+#text1 {
+    font-size: 50px;
+}
